@@ -65,6 +65,16 @@
         "uri": "https://x.com/Cardano_Will"
       },
       {
+        "@type": "Link",
+        "label": "Will Norris YouTube Channel",
+        "uri": "https://www.youtube.com/@WillNorrisCardano"
+      },
+      {
+        "@type": "Identity",
+        "label": "Will Norris X Profile",
+        "uri": "https://x.com/Cardano_Will"
+      },
+      {
         "@type": "Identity",
         "label": "Will Norris YouTube Channel",
         "uri": "https://www.youtube.com/@WillNorrisCardano"
