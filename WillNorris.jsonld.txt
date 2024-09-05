@@ -1,0 +1,85 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": "CIP119:image",
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "doNotList": false,
+    "givenName": "WillNorris",
+    "motivations": "I have been a part of the Cardano ecosystem since early 2021 when I fell deep down the Crypro rabbit hole leading me here. Cardano stands out above all others for upholding the values that originally inspired me—the vision of Satoshi brought to life through first-principles research. Over nearly four years, I have dedicated myself to learning as much as possible about the ecosystem and have invested most of my net worth in ADA and projects within Cardano.",
+    "objectives": "As a DRep, I am committed to working alongside the community, builders, SPOs, whales, and small holders alike to drive the Cardano vision forward and support its future developments. My values are rooted in creating an environment that can surpass the legacy systems of today, fostering a system that is fair, transparent, and accountable. I aim to contribute to building an efficient, effective, and high-integrity network. Above all, I believe in maximizing decentralization to lay the foundation for a trustless network state, where transparency and equal opportunity thrive.",
+    "paymentAddress": "addr1qy880as9lj39cra5zpd3dvyarlt5etjrlfx6vrz68wn8ja3acuns2am3vpwfnaq0k4yeh73p7n8v2lxn346zzw3tvv4ssyf3yt",
+    "qualifications": "I hold a Master's degree in Physics and Astronomy from Durham University, UK, and have worked in the tech industry since 2013. My expertise lies in developing advanced commercial models and structuring deals for some of the world’s largest enterprises, particularly supporting their data center needs. I bring a unique blend of commercial acumen, sales expertise, and technical knowledge, complemented by an approachable nature. With a strong background in commercial strategy and sales, I am a creative visionary dedicated to driving impactful outcomes.",
+    "references": [
+      {
+        "@type": "Link",
+        "label": "Will Norris X Profile",
+        "uri": "https://x.com/Cardano_Will"
+      },
+      {
+        "@type": "Link",
+        "label": "Will Norris YouTube Channel",
+        "uri": "https://www.youtube.com/@WillNorrisCardano"
+      },
+      {
+        "@type": "Identity",
+        "label": "Will Norris X Profile",
+        "uri": "https://x.com/Cardano_Will"
+      },
+      {
+        "@type": "Identity",
+        "label": "Will Norris YouTube Channel",
+        "uri": "https://www.youtube.com/@WillNorrisCardano"
+      }
+    ]
+  }
+}
