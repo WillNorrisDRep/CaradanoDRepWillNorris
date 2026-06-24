@@ -61,7 +61,7 @@
   "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "givenName": "Will Norris Test",
+    "givenName": "WillNorrisTest",
     "image": {
       "@type": "ImageObject",
       "contentUrl": "",
