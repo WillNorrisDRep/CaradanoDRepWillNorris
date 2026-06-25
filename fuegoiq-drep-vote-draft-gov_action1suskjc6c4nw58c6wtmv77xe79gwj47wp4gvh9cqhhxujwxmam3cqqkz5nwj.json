@@ -1,0 +1,20 @@
+{
+  "type": "FuegoIQDRepVoteDraft",
+  "version": 1,
+  "createdAt": "2026-06-25T16:36:11.517Z",
+  "drepId": "drep1ytuufvd6maykgfcp20fxgpx7g6a9z2suchqehfejwdsx8cgpx80yg",
+  "governanceAction": {
+    "id": "gov_action1suskjc6c4nw58c6wtmv77xe79gwj47wp4gvh9cqhhxujwxmam3cqqkz5nwj",
+    "title": "Strike Finance Liquidity Deployment",
+    "type": "TreasuryWithdrawals",
+    "lifecycle": "Live",
+    "expiryEpoch": 644,
+    "url": "ipfs://QmYM4nuNZTVMiMmvCr7mntct7YE1VgWyLgxGhyfWptgFgC"
+  },
+  "vote": {
+    "choice": "Yes",
+    "summary": "x",
+    "rationale": "y"
+  },
+  "status": "local-draft-only"
+}
