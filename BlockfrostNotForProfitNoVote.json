@@ -1,0 +1,20 @@
+{
+  "type": "FuegoIQDRepVoteRationale",
+  "version": 1,
+  "drepId": "drep1ytuufvd6maykgfcp20fxgpx7g6a9z2suchqehfejwdsx8cgpx80yg",
+  "governanceAction": {
+    "id": "gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq",
+    "title": "Blockfrost's transformation to not-for-profit",
+    "type": "TreasuryWithdrawals",
+    "lifecycle": "Live",
+    "expiryEpoch": 646,
+    "url": "ipfs://QmYiT1K8KUr5wvAEkuLmiFJm79oy9pZ8CB3PbToAUePDYp"
+  },
+  "vote": {
+    "choice": "No"
+  },
+  "body": {
+    "rationale": "I recognise Blockfrost as important Cardano infrastructure and I appreciate the effort to move it toward a community-governed, not-for-profit public-good model. However, I am voting NO because I do not believe this proposal resolves the core sustainability problem.\n\nMoving Blockfrost into a not-for-profit structure changes who bears the cost, but it does not remove the cost. Servers, operations, maintenance, development and support still need to be paid for. This proposal funds an 18-month runway, but the long-term model after that period remains too uncertain. In practice, this risks turning Blockfrost into a recurring treasury-funded operating expense.\n\nUnder the current NCL constraint and with many competing treasury requests, I believe limited funds should be prioritised for actions with clearer exit paths, stronger self-sustainability plans, and more defined post-funding accountability. I would be open to reconsidering a future proposal that provides a concrete long-term revenue/vendor model, decentralisation milestones, and a clearer plan to avoid ongoing treasury dependency.\n\nThis is not a rejection of Blockfrost’s value. It is a vote for treasury discipline and sustainable public-good funding."
+  },
+  "status": "published-rationale"
+}
