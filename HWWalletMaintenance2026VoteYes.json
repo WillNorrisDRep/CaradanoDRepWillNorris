@@ -1,0 +1,20 @@
+{
+  "type": "FuegoIQDRepVoteRationale",
+  "version": 1,
+  "drepId": "drep1ytuufvd6maykgfcp20fxgpx7g6a9z2suchqehfejwdsx8cgpx80yg",
+  "governanceAction": {
+    "id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw",
+    "title": "Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026",
+    "type": "TreasuryWithdrawals",
+    "lifecycle": "Live",
+    "expiryEpoch": 645,
+    "url": "ipfs://bafkreidws5xwzccvn6lqlqroqmkdhob4uop6k7mvrrjbs5gaxskevkerbe"
+  },
+  "vote": {
+    "choice": "Yes"
+  },
+  "body": {
+    "rationale": "I am voting YES on the Hardware Wallet Maintenance proposal.\n\nHardware wallets are critical security infrastructure for Cardano. They support safe custody, staking, governance participation, transaction signing, and DRep voting for many users who choose not to expose private keys to hot wallets.\n\nThis proposal is a focused maintenance request rather than a speculative growth proposal. It supports continued Ledger and Trezor compatibility, Cardano hardware-wallet tooling, integration support, vendor coordination, audits, protocol upgrade readiness, and ongoing maintenance required to keep this part of the ecosystem reliable.\n\nIn the current NCL environment, I believe DReps need to be highly selective. My priority is to support proposals that maintain essential public goods, security-critical infrastructure, self-custody, and developer/user access to Cardano.\n\nHardware wallet support clearly fits that category.\n\nThe requested amount is material, but proportionate given the importance of the work. If this infrastructure is not maintained properly, the downside risk is significant: degraded wallet compatibility, weaker self-custody UX, reduced governance participation, and increased friction for users who rely on cold-storage signing.\n\nFor those reasons, I consider this a responsible and necessary use of treasury funds.\n\nI vote YES."
+  },
+  "status": "published-rationale"
+}
