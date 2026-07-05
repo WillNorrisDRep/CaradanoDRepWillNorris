@@ -1,0 +1,20 @@
+{
+  "type": "FuegoIQDRepVoteRationale",
+  "version": 1,
+  "drepId": "drep1ytuufvd6maykgfcp20fxgpx7g6a9z2suchqehfejwdsx8cgpx80yg",
+  "governanceAction": {
+    "id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
+    "title": "Withdraw 1,162,746 ada for MLabs Core Tool Maintenance & Enhancement: Plutarc...",
+    "type": "TreasuryWithdrawals",
+    "lifecycle": "Live",
+    "expiryEpoch": 645,
+    "url": "ipfs://bafkreidixjkquc6xtimbbdwet2klabcdzbt6kduktlca2ywl3slpqlgx2q"
+  },
+  "vote": {
+    "choice": "Yes"
+  },
+  "body": {
+    "rationale": "I am voting YES on the MLabs Core Tool Maintenance & Enhancement: Plutarch and Ply proposal.\n\nPlutarch and Ply are important developer tools for Cardano smart contract development. They help teams write, compile, serialize, test and maintain production on-chain applications, with Plutarch supporting efficient smart contract development through compilation to UPLC, and Ply helping bridge scripts into blueprint-style artifacts.\n\nIn the current NCL environment, I believe DReps need to be selective. My priority is to support proposals that maintain essential public goods, developer infrastructure, security-critical tooling and the core rails that allow Cardano builders to keep building.\n\nThis proposal fits that framework.\n\nIt is not a broad speculative growth proposal. It is a focused maintenance and enhancement request for tooling already used by Cardano builders. The work prioritises critical breakages, serious vulnerabilities, protocol-era and hard-fork compatibility, bug fixes, correctness improvements, optimisations, documentation and developer-experience improvements.\n\nI also view it positively that the proposal discloses prior treasury funding, sets out a clear budget, includes Intersect administration, provides for oversight and milestone-based disbursement controls, and is structured through the 2026 treasury management smart contract framework.\n\nThe requested amount is material, but proportionate when compared with larger and more speculative treasury asks currently competing for limited NCL capacity. Cardano needs to preserve and maintain the tooling that production teams rely on, especially as Plutus, UPLC and ledger-era changes continue to evolve.\n\nFor these reasons, I consider this a responsible use of treasury funds and a good example of the type of developer infrastructure maintenance the treasury should support.\n\nI vote YES."
+  },
+  "status": "published-rationale"
+}
