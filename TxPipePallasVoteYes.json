@@ -1,0 +1,20 @@
+{
+  "type": "FuegoIQDRepVoteRationale",
+  "version": 1,
+  "drepId": "drep1ytuufvd6maykgfcp20fxgpx7g6a9z2suchqehfejwdsx8cgpx80yg",
+  "governanceAction": {
+    "id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8ssd0ztd8",
+    "title": "Withdraw 540,750 ada for Pallas by TxPipe: Maintaining Cardano's Core Rust Li...",
+    "type": "TreasuryWithdrawals",
+    "lifecycle": "Live",
+    "expiryEpoch": 645,
+    "url": "ipfs://bafkreicg6l7ug42xjsai4p7smkwqt4ly4zuzy65weenhiwehgub7mcbg4i"
+  },
+  "vote": {
+    "choice": "Yes"
+  },
+  "body": {
+    "rationale": "I am voting YES on the TxPipe Pallas proposal.\n\nPallas is core developer infrastructure for Cardano. It provides Rust libraries for important Cardano primitives, including ledger data structures, serialization, cryptography, transaction building, chain synchronization, multi-era support, and node communication.\n\nThis is not a speculative growth proposal. It is a focused maintenance request for open-source tooling that sits low in the Cardano development stack and is used by multiple downstream projects and developer tools.\n\nIn the current NCL environment, I believe DReps need to be selective. My priority is to support proposals that maintain critical public goods, core developer infrastructure, protocol compatibility, open-source libraries, and the technical rails that Cardano builders rely on.\n\nPallas clearly fits that category.\n\nI consider this one of the stronger TxPipe proposals because it is foundational. Higher-level tools and applications depend on reliable lower-level libraries. If those libraries fall behind ledger changes, hard forks, dependency updates or protocol evolution, the impact can propagate across the ecosystem.\n\nI also view it positively that this proposal is modest in size compared with many other live treasury requests and is structured through the 2026 treasury management framework, with Intersect administration, oversight controls, milestone-based disbursement and community auditability.\n\nGiven the current budget pressure, I am prioritising infrastructure and maintenance over larger speculative or commercial proposals. Pallas is exactly the type of low-level open-source developer tooling that the treasury should be willing to maintain.\n\nFor these reasons, I consider this a responsible and proportionate use of treasury funds.\n\nI vote YES."
+  },
+  "status": "published-rationale"
+}
