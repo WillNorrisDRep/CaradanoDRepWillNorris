@@ -1,0 +1,20 @@
+{
+  "type": "FuegoIQDRepVoteRationale",
+  "version": 1,
+  "drepId": "drep1ytuufvd6maykgfcp20fxgpx7g6a9z2suchqehfejwdsx8cgpx80yg",
+  "governanceAction": {
+    "id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sw64d667",
+    "title": "Withdraw 540,750 ada for Oura by TxPipe: Maintaining Cardano’s Event Pipeline",
+    "type": "TreasuryWithdrawals",
+    "lifecycle": "Live",
+    "expiryEpoch": 645,
+    "url": "ipfs://bafkreicf3r76m64xzy4jqhfbbhmzwpjz2qcw7q27hzjm3r7eo24lbxr7li"
+  },
+  "vote": {
+    "choice": "Yes"
+  },
+  "body": {
+    "rationale": "I am voting YES on the TxPipe Oura proposal.\n\nOura is useful open-source developer and infrastructure tooling for Cardano. It provides a Rust-native event pipeline that connects to Cardano nodes, monitors blockchain activity, filters relevant events, and routes those events to downstream systems such as databases, webhooks, queues, analytics services and application backends.\n\nThis matters because many wallets, dApps, explorers, governance tools, indexers, monitoring systems and analytics platforms need reliable ways to process Cardano events without each team having to build and maintain custom event-pipeline infrastructure from scratch.\n\nIn the current NCL environment, I believe DReps need to be selective. My priority is to support focused proposals that maintain essential public goods, open-source infrastructure, developer tooling, protocol compatibility and the technical rails that Cardano builders rely on.\n\nOura fits that framework.\n\nThis is not a speculative growth proposal. It is a modest, scoped maintenance request for an existing open-source tool. The work covers dependency updates, Cardano protocol compatibility, performance improvements, bug fixes, documentation, community support, issue triage, review of external contributions and continued improvements based on ecosystem feedback.\n\nI also view it positively that Oura is built on Pallas, has an active open-source footprint, and supports a wide range of data sources and output sinks. That makes it useful for production infrastructure, low-resource setups, monitoring, indexing, analytics and real-time event processing.\n\nThe proposal is modest in size compared with many other live treasury requests and is structured through the 2026 treasury management framework, with Intersect administration, oversight controls, milestone-based disbursement and community auditability.\n\nWhile I rank Oura slightly below the most foundational TxPipe proposals such as Pallas and Dolos, I still consider it a valuable part of the Cardano developer infrastructure stack. Under my “fund the rails before the growth bets” approach, this is the kind of practical maintenance work the treasury should support.\n\nFor these reasons, I consider this a responsible and proportionate use of treasury funds.\n\nI vote YES."
+  },
+  "status": "published-rationale"
+}
