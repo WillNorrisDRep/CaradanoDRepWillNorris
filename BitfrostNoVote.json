@@ -1,0 +1,20 @@
+{
+  "type": "FuegoIQDRepVoteRationale",
+  "version": 1,
+  "drepId": "drep1ytuufvd6maykgfcp20fxgpx7g6a9z2suchqehfejwdsx8cgpx80yg",
+  "governanceAction": {
+    "id": "gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
+    "title": "Bifrost: Unlocking Bitcoin DeFi on Cardano — Road to Mainnet (Phase 1 of 2)",
+    "type": "TreasuryWithdrawals",
+    "lifecycle": "Live",
+    "expiryEpoch": 647,
+    "url": "ipfs://QmZwHmFoyhd18WMRhv9356CXfbUqjkPsKKGZtCpVLaWgcU"
+  },
+  "vote": {
+    "choice": "No"
+  },
+  "body": {
+    "rationale": "I am voting NO on Bifrost: Unlocking Bitcoin DeFi on Cardano — Road to Mainnet, Phase 1 of 2.\n\nI want to be clear that this is not a rejection of Bifrost’s strategic importance or the teams involved. A secure, open and decentralised route for bringing Bitcoin liquidity into Cardano could provide substantial ecosystem-wide value. Bifrost is also more infrastructure-oriented and better structured than many speculative BTCfi or commercial growth proposals.\n\nHowever, I cannot justify committing 12,332,031 ADA to Phase 1 in the present NCL environment.\n\nBased on the withdrawals currently expected to enact, I anticipate approximately 14M ADA or less of NCL capacity remaining. Bifrost would therefore consume almost all remaining capacity, despite significant time remaining in the current NCL window. I have also already voted YES on Scalus, which requests approximately 2.5M ADA. Under these assumptions, both proposals cannot fit within the available capacity.\n\nThis turns the decision into a question of prioritisation rather than whether Bifrost has merit.\n\nMy principal concerns are:\n\n- this withdrawal funds launch readiness rather than a publicly operational bridge;\n- public rollout and longer-term operations would require a subsequent Phase 2;\n- the existing Catalyst-funded Bifrost work should be completed and evaluated before committing substantially more Treasury funding;\n- bridges present unusually serious technical, custody, liveness and economic-security risks;\n- final stewardship, operational responsibility, Treasury benefit and complete Phase 1-plus-Phase 2 cost require greater certainty;\n- approving this action would leave almost no capacity for unforeseen critical needs during the remainder of a long NCL window.\n\nBifrost may ultimately deserve Treasury support, but 12.33M ADA for the first phase of a two-phase programme is too large a commitment at this point in the cycle.\n\nThis decision also reinforces my broader position that Cardano needs NCL reform: shorter windows, pre-agreed budget buckets, clearer strategies for strong and weak ADA markets, and category-specific scrutiny. A proposal such as Bifrost should compete within a defined strategic-infrastructure or Bitcoin-liquidity allocation rather than consuming nearly all remaining capacity from one undifferentiated pot.\n\nI would welcome a future resubmission after:\n\n1 - the current Catalyst work is completed and independently reviewed;\n2 - end-to-end operation has been demonstrated;\n3 - the stewardship and security-responsibility model is finalised;\n4 - Treasury fee or value-return arrangements are binding;\n5 - SPO and ecosystem integration commitments are clearer;\n6 - the full cost through public launch and sustained operation is disclosed; and\n7 - Cardano has established a better NCL framework.\n\nBifrost is strategically interesting, but I do not believe Phase 1 is the best use of virtually all remaining NCL capacity in this cycle.\n\nFor these reasons, I vote NO."
+  },
+  "status": "published-rationale"
+}
